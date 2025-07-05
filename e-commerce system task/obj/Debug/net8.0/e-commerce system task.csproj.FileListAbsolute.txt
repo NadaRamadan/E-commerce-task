@@ -1,0 +1,14 @@
+D:\dot net projects\e-commerce system task\e-commerce system task\bin\Debug\net8.0\e-commerce system task.exe
+D:\dot net projects\e-commerce system task\e-commerce system task\bin\Debug\net8.0\e-commerce system task.deps.json
+D:\dot net projects\e-commerce system task\e-commerce system task\bin\Debug\net8.0\e-commerce system task.runtimeconfig.json
+D:\dot net projects\e-commerce system task\e-commerce system task\bin\Debug\net8.0\e-commerce system task.dll
+D:\dot net projects\e-commerce system task\e-commerce system task\bin\Debug\net8.0\e-commerce system task.pdb
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.AssemblyInfoInputs.cache
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.AssemblyInfo.cs
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.csproj.CoreCompileInputs.cache
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.dll
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\refint\e-commerce system task.dll
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.pdb
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\e-commerce system task.genruntimeconfig.cache
+D:\dot net projects\e-commerce system task\e-commerce system task\obj\Debug\net8.0\ref\e-commerce system task.dll
